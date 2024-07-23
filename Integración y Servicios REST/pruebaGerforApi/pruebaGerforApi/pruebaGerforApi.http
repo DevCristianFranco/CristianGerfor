@@ -1,0 +1,6 @@
+@pruebaGerforApi_HostAddress = http://localhost:5070
+
+GET {{pruebaGerforApi_HostAddress}}/PruebaGerfor/
+Accept: application/json
+
+###

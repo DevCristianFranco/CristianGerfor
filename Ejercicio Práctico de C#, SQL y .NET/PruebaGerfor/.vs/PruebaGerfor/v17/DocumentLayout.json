@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crist\\source\\repos\\PruebaGerfor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F183D3E-78EE-4C29-9EEA-65859BDE2817}|PruebaGerfor\\PruebaGerfor.csproj|c:\\users\\crist\\source\\repos\\pruebagerfor\\pruebagerfor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F183D3E-78EE-4C29-9EEA-65859BDE2817}|PruebaGerfor\\PruebaGerfor.csproj|solutionrelative:pruebagerfor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F183D3E-78EE-4C29-9EEA-65859BDE2817}|PruebaGerfor\\PruebaGerfor.csproj|c:\\users\\crist\\source\\repos\\pruebagerfor\\pruebagerfor\\pruebagerfor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F183D3E-78EE-4C29-9EEA-65859BDE2817}|PruebaGerfor\\PruebaGerfor.csproj|solutionrelative:pruebagerfor\\pruebagerfor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PruebaGerfor.csproj",
+              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\PruebaGerfor\\PruebaGerfor\\PruebaGerfor.csproj",
+              "RelativeDocumentMoniker": "PruebaGerfor\\PruebaGerfor.csproj",
+              "ToolTip": "C:\\Users\\crist\\source\\repos\\PruebaGerfor\\PruebaGerfor\\PruebaGerfor.csproj",
+              "RelativeToolTip": "PruebaGerfor\\PruebaGerfor.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-23T15:00:19.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\PruebaGerfor\\PruebaGerfor\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaGerfor\\Program.cs",
+              "ToolTip": "C:\\Users\\crist\\source\\repos\\PruebaGerfor\\PruebaGerfor\\Program.cs",
+              "RelativeToolTip": "PruebaGerfor\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:23:00.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
